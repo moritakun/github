@@ -21,3 +21,5 @@
   * git remote add origin https://github.com/moritakun/brew.git
 * ローカルリポジトリの変更をリモートリポジトリに反映する
   * git push origin master
+* リモートリポジトリをローカルに複製する
+  * git clone https://github.com/moritakun/brew.git
