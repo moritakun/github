@@ -17,6 +17,11 @@
     create mode 100644 setup.md
     ```
 * リモートリポジトリをGitHubweb上で作成
+
+  ※コマンドで作成する場合は以下
+  ```
+  git remote add <リポジトリ名>
+  ```
 * githubのリモートリポジトリ情報をローカルリポジトリに追加する
   * git remote add origin https://github.com/moritakun/brew.git
 * ローカルリポジトリの変更をリモートリポジトリに反映する
